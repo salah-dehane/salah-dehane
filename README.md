@@ -2,7 +2,7 @@
 
 I am **Salah Eddine**, an IT student at [Université Badji Mokhtar Annaba (UBMA)](https://www.univ-annaba.dz/) in Algeria. 🇩🇿
 
-I am a tech enthusiast and a passionate hobbyist with a level beyond beginner in various fields. I enjoy exploring the world of coding, digital design, and photography, always looking to learn and create something new.
+I am a tech enthusiast and a passionate hobbyist with an advanced level in various fields. I enjoy exploring the world of coding, digital design, and photography, always looking to learn and create something new.
 
 Feel free to connect with me here:
 

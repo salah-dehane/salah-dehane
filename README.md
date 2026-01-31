@@ -8,6 +8,7 @@ Feel free to connect with me here:
 
 [![Instagram Badge](https://img.shields.io/badge/-@sala7.ed.7-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sala7.ed.7/)](https://instagram.com/sala7.ed.7/)
 [![Gmail Badge](https://img.shields.io/badge/-sala7.eddine.dehane@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sala7.eddine.dehane@gmail.com)](mailto:sala7.eddine.dehane@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-@sala7ed-26A5E4?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/sala7ed)](https://t.me/sala7ed)
 
 ---
 
